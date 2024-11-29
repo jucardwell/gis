@@ -1,8 +1,7 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: GEOG 491: Introduction to Geographic Information Systems
+description: 
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: jucardwell.github.io/gis
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+search_enabled: false
