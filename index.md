@@ -4,17 +4,17 @@ layout: default
 nav_order: 1
 ---
 
-# GEOGXXX: Remote Sensing of Natural Hazards
+# GEOG491: Introduction to Geographic Information Systems
 
 ### Course Information
-- **Meeting Pattern**: 
-- **Instructional Format**: 
-- **Classroom**:
+- **Meeting Pattern**: M/W/F 10:10-11:00am
+- **Instructional Format**: In-person, synchronous
+- **Classroom**: Carolina Hall 220
 - 
 ### Instructor Information
 - **Name**: Julia Cardwell
 - **Office**: 
 - **Office Hours**: 
-- **Email**: 
+- **Email**: jmcard@email.unc.edu
 
-All my course materials are freely available for use, adaptation, and distribution with attribution for non-commercial purposes under the Creative Commons CC BY-NC license. ![CC ByNC license](Cc_by-nc_icon.svg.png)
+All my course materials are freely available for use, adaptation, and distribution with attribution for non-commercial purposes under the Creative Commons CC BY-NC license. ![CC ByNC license](images/Cc_by-nc_icon.svg.png)
