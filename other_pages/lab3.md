@@ -1,8 +1,8 @@
 ---
-title: Lab 2
+title: Lab 3
 layout: default
 parent: Labs
-nav_order: 2
+nav_order: 3
 ---
 
 <iframe 
