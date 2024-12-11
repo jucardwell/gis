@@ -11,8 +11,11 @@ has_toc: false
 
 | Lab | Name | Due Date     |
 |-----|------|--------------|
-| 1   | Basic Cartographic Design     | TBD |
-| 2   | Vector-based Spatial Analysis    | TBD |
-| 3   | Zonal Statistics     | TBD  |
-| 4   | Multi Criteria Overlay Analysis     | TBD |
+| 1   | Basic Cartographic Design     | 1/24/2025 |
+| 2   | Vector-based Spatial Analysis    | 1/31/2025 |
+| 3   | Zonal Statistics     | 2/7/2025  |
+| 4   | Monitoring Heat    | 2/14/2025 |
+| 5   | Multi-criteria Overlay Analysis    | 2/21/2025 |
+| 6   | Access to Greenways    | 2/28/2025 |
+| 7   | Spatial Regression    | 3/07/2025 |
 
