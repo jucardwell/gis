@@ -6,6 +6,14 @@ has_children: true
 has_toc: false
 ---
 
+**Practicum Rules:**
+Each practicum will be completed in groups of three using a single computer. There will be three defined roles as followed:
+- **Driver**: This person will be controlling the computer
+- **Navigator**: This person will be controlling the driver
+- **Data Manager**: This person will be making sure files and projects are being saved in the correct location
+
+During the practicum, roles will switch every 10 minutes. After the class period is over, students will deposit their practicum material into the class shared drive [here](https://drive.google.com/drive/folders/1685AXU4qD1ufpb22JZHlkqSvjdmDylb3?usp=sharing), which will be used to complete the lab. 
+
 | Lab | Name | Date     |
 |-----|------|--------------|
 | 1   | Introduction to QGIS     | 1/17/2025 |
