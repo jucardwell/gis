@@ -5,6 +5,8 @@ nav_order: 4
 has_children: true
 has_toc: false
 ---
+<img src="images/Cc_by-nc_icon.svg.png" alt="CC BY-NC License" width="100" height="50">
+All my course practicums are freely available for use, adaptation, and distribution with attribution for non-commercial purposes under the Creative Commons CC BY-NC license. 
 
 **Practicum Rules:**
 Each practicum will be completed in groups of three using a single computer. There will be three defined roles as followed:
