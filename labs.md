@@ -6,10 +6,14 @@ nav_order: 6
 has_children: true
 has_toc: false
 ---
-[**See Lab Rubrics Here**](https://docs.google.com/spreadsheets/d/1kFgNBKnNDcvr1A29ZMUfbtXw2RawQECWZ4HOinmRjA0/edit?usp=drive_link)
-------------------------------------------------------------------------
+
 <img src="images/Cc_by-nc_icon.svg.png" alt="CC BY-NC License" width="100" height="50">
 All my course labs are freely available for use, adaptation, and distribution with attribution for non-commercial purposes under the Creative Commons CC BY-NC license. 
+
+
+[**See Lab Rubrics Here**](https://docs.google.com/spreadsheets/d/1kFgNBKnNDcvr1A29ZMUfbtXw2RawQECWZ4HOinmRjA0/edit?usp=drive_link)
+
+------------------------------------------------------------------------
 
 | Lab | Name | Due Date     |
 |-----|------|--------------|
