@@ -14,7 +14,7 @@ nav_order: 1
 ### Instructor Information
 - **Name**: Julia Cardwell
 - **Office**: 
-- **Office Hours**: 
+- **Office Hours**: Tuesdays (1-3pm), Wednesdays (11:15am-1pm)
 - **Email**: jmcard@email.unc.edu
 
   
