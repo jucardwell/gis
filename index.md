@@ -19,7 +19,7 @@ nav_order: 1
 
 ### Teaching Assistant Information
 - **Name**: Carl Jurkowski
-- **Office Hours**: Office hours are by appointment. If you can't make Dr. Cardwell's office hours or have an urgent question, reach out to Carl to schedule an appointment. 
+- **Office Hours**: Office hours are by appointment- reach out by email to schedule.
 - **Email**: carljurk@live.unc.edu
   
 
