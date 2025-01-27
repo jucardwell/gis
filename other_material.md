@@ -12,3 +12,5 @@ All my course material is freely available for use, adaptation, and distribution
 [Spatial Data Exercise](https://docs.google.com/document/d/1FSQ_qW2N-UZt_c720G80TZH0uXBg0U63/edit?usp=sharing&ouid=101338019870957132383&rtpof=true&sd=true)
 
 [Processing Quickstart Guide](https://docs.google.com/document/d/1e61QG_vqybpFGV94AhbItktJN4ToppYGMITKo7UDWXk/edit?usp=sharing)
+
+[Practice Join](https://drive.google.com/drive/folders/1fuh0SP1bfQc22M8ZKSNRFMcdA4St-C8F?usp=sharing)
