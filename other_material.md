@@ -16,3 +16,5 @@ All my course material is freely available for use, adaptation, and distribution
 [Processing Quickstart Guide](https://docs.google.com/document/d/1e61QG_vqybpFGV94AhbItktJN4ToppYGMITKo7UDWXk/edit?usp=sharing)
 
 [Practice Join](https://drive.google.com/drive/folders/1fuh0SP1bfQc22M8ZKSNRFMcdA4St-C8F?usp=sharing)
+
+[Foundations of GIS Topics](https://docs.google.com/document/d/117RYCZIFXILcWkUGu9oqivkwGKa6bXMcm-XNmRleEyA/edit?usp=sharing)
