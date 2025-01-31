@@ -18,3 +18,5 @@ All my course material is freely available for use, adaptation, and distribution
 [Practice Join](https://drive.google.com/drive/folders/1fuh0SP1bfQc22M8ZKSNRFMcdA4St-C8F?usp=sharing)
 
 [Foundations of GIS Topics](https://docs.google.com/document/d/117RYCZIFXILcWkUGu9oqivkwGKa6bXMcm-XNmRleEyA/edit?usp=sharing)
+
+[Reprojecting Layers in QGIS](https://drive.google.com/file/d/1B08NJsHOk3ym3QWRDKSmx2tq1ggPW1Ep/view?usp=sharing)
