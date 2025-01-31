@@ -19,4 +19,6 @@ All my course material is freely available for use, adaptation, and distribution
 
 [Foundations of GIS Topics](https://docs.google.com/document/d/117RYCZIFXILcWkUGu9oqivkwGKa6bXMcm-XNmRleEyA/edit?usp=sharing)
 
+[Foundations of GIS MC Quiz](https://docs.google.com/document/d/1sQ8zsAiAG9OtOrxZrl8xMCbkaRHyUPwyvMgkuFhsYQ8/edit?usp=sharing)
+
 [Reprojecting Layers in QGIS](https://drive.google.com/file/d/1B08NJsHOk3ym3QWRDKSmx2tq1ggPW1Ep/view?usp=sharing)
