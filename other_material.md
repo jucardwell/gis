@@ -23,4 +23,6 @@ All my course material is freely available for use, adaptation, and distribution
 
 [Reprojecting Layers in QGIS](https://drive.google.com/file/d/1B08NJsHOk3ym3QWRDKSmx2tq1ggPW1Ep/view?usp=sharing)
 
+[Making Connections](https://docs.google.com/document/d/103KxXsYEibByOTSYkn3FgpTGlRzhctUUdTz9SZQ26BI/edit?usp=sharing)
+
 [PPA and R Demo](https://docs.google.com/document/d/1a7YA2BFCDEXrwZTChuIhUH9agkrlDQz--XDJp3qdF9U/edit?usp=sharing)
