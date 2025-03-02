@@ -26,3 +26,7 @@ All my course material is freely available for use, adaptation, and distribution
 [Making Connections](https://docs.google.com/document/d/103KxXsYEibByOTSYkn3FgpTGlRzhctUUdTz9SZQ26BI/edit?usp=sharing)
 
 [PPA and R Demo](https://docs.google.com/document/d/1a7YA2BFCDEXrwZTChuIhUH9agkrlDQz--XDJp3qdF9U/edit?usp=sharing)
+
+[Common Data Problems](https://docs.google.com/document/d/1nB9lRP9mrDJrQZt4XUZan9ArynpaWhMVuDQYGq2siSM/edit?usp=sharing)
+
+[Messy Data Activity](https://docs.google.com/document/d/1PWukCCvfqK-fhtT8Bn77KKj4tE8AwWykmPgKrQNgpzk/edit?usp=sharing)
