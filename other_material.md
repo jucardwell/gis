@@ -30,3 +30,5 @@ All my course material is freely available for use, adaptation, and distribution
 [Common Data Problems](https://docs.google.com/document/d/1nB9lRP9mrDJrQZt4XUZan9ArynpaWhMVuDQYGq2siSM/edit?usp=sharing)
 
 [Messy Data Activity](https://docs.google.com/document/d/1PWukCCvfqK-fhtT8Bn77KKj4tE8AwWykmPgKrQNgpzk/edit?usp=sharing)
+
+[Test Study Guide](https://docs.google.com/document/d/1-xMdItFV3pgP63OlK3D_8LJOhDfk-iO3cP8h0cL2sxE/edit?usp=sharing)
