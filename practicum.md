@@ -25,4 +25,6 @@ During the practicum, roles will switch every 15 minutes. After the class period
 | 5   | Prepping Data for Multi-criteria Overlay Analysis    | 2/14/2025 |
 | 6   | Service Area Analysis    | 2/21/2025 |
 | 7   | Spatial Autocorrelation    | 2/28/2025 |
+| 8a   | SQL    | 3/21/2025 |
+| 8b   | Spatial SQL    | 3/26/2025 |
 
