@@ -24,4 +24,5 @@ All my course labs are freely available for use, adaptation, and distribution wi
 | 5   | Multi-criteria Overlay Analysis    | 2/21/2025 |
 | 6   | Access to Greenways    | 2/28/2025 |
 | 7   | Spatial Regression    | 3/07/2025 |
+| 8   | Spatial SQL |4/04/2025|
 
