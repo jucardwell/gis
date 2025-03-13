@@ -6,9 +6,11 @@ nav_order: 7
 has_children: true
 has_toc: false
 ---
-[**See Final Project Rubrics Here**](https://docs.google.com/spreadsheets/d/1kFgNBKnNDcvr1A29ZMUfbtXw2RawQECWZ4HOinmRjA0/edit?usp=drive_link)
-------------------------------------------------------------------------
 
-
-
-------------------------------------------------------------------------
+<iframe 
+    src="https://docs.google.com/document/d/e/2PACX-1vTBktnvSeg8dVypTfewPJyekpeq8oIeFZJ0TVRQbDidoVC-4TIy3zImBqm7IZwPSkKTMI4LBD9wt9C_/pub?embedded=true" 
+    width="100%" 
+    height="800px" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
