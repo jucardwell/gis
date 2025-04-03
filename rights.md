@@ -38,7 +38,7 @@ These can be used by anyone — citizen or not — when interacting with immigra
 If you **want to report** suspected ICE activity, you can contact **Siembra NC**:  
 **336-543-0353** (call or text)
 
-You can also learn how to verify ICE presence [here](https://www.ilrc.org/know-your-rights-and-how-verify-ice-raids).  
+You can also learn how to verify ICE presence [here](https://docs.google.com/document/d/1ZFWBdoPI93bRv4Dxipr9KcZh8JTmcC4KcLiPO_x7w0E/mobilebasic).  
 Please avoid spreading unconfirmed reports, especially on social media.
 
 ---
