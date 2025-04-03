@@ -6,11 +6,6 @@ nav_order: 9
 
 # Know Your Rights
 
-> **Disclaimer:**  
-> This content is shared in a personal capacity. It is not affiliated with any institution or organization.
-
----
-
 ### Your Rights — No Matter Your Citizenship Status
 
 - **You have the right not to open the door** to immigration or law enforcement agents unless they have a valid warrant signed by a judge. Opening the door may be considered consent to enter.
@@ -32,6 +27,10 @@ These can be used by anyone — citizen or not — when interacting with immigra
 > “I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.”
 
 > “I do not give you permission to search any of my belongings based on my 4th Amendment rights. I choose to exercise my constitutional rights.”
+
+
+---
+
 
 ### Report ICE Activity
 
