@@ -32,3 +32,5 @@ All my course material is freely available for use, adaptation, and distribution
 [Messy Data Activity](https://docs.google.com/document/d/1PWukCCvfqK-fhtT8Bn77KKj4tE8AwWykmPgKrQNgpzk/edit?usp=sharing)
 
 [Test Study Guide](https://docs.google.com/document/d/1-xMdItFV3pgP63OlK3D_8LJOhDfk-iO3cP8h0cL2sxE/edit?usp=sharing)
+
+[Data Collection Signup](https://docs.google.com/document/d/184LqYqjt2M2ebw2Ih8yY90OWlQmEGByMcNyZHdyoSkI/edit?usp=sharing)
