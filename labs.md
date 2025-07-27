@@ -1,28 +1,22 @@
 ---
 title: Labs
 layout: default
-nav_enabled: true
-nav_order: 6
+nav_order: 4
 has_children: true
 has_toc: false
 ---
-
 <img src="images/Cc_by-nc_icon.svg.png" alt="CC BY-NC License" width="100" height="50">
 All my course labs are freely available for use, adaptation, and distribution with attribution for non-commercial purposes under the Creative Commons CC BY-NC license. 
 
 
-[**See Lab Rubrics Here**](https://docs.google.com/spreadsheets/d/1kFgNBKnNDcvr1A29ZMUfbtXw2RawQECWZ4HOinmRjA0/edit?usp=drive_link)
-
-------------------------------------------------------------------------
-
-| Lab | Name | Due Date     |
+| Lab | Name | Due Date MWF | Due Date TTh|
 |-----|------|--------------|
-| 1   | Basic Cartographic Design     | 1/24/2025 |
-| 2   | Vector-based Spatial Analysis    | 1/31/2025 |
-| 3   | Zonal Statistics     | 2/7/2025  |
-| 4   | Monitoring Heat    | 2/14/2025 |
-| 5   | Multi-criteria Overlay Analysis    | 2/21/2025 |
-| 6   | Access to Greenways    | 2/28/2025 |
-| 7   | Spatial Regression    | 3/07/2025 |
-| 8   | Spatial SQL |4/04/2025|
+| 1   | Introduction to QGIS     | 9/26/2025 | 9/18/2025 |
+| 2   | Introduction to Spatial Analysis    | 10/15/2025 | 10/9/2025 |
+| 3   | Introduction to Census Data     | 10/22/2025  | 10/16/2025 |
+| 4   | Introduction to Historical Data     | 10/29/2025 | 10/23/2025 |
+| 5   | Introduction to Crowdsourced Data    | 11/3/2025 | 10/30/2025 |
+| 6   | Introduction to Institutional Data    | 11/7/2025 | 11/6/2025 |
+| 7   | Introduction to Remotely Sensed Data    | 11/14/2025 | 11/13/2025 |
+
 
