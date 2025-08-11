@@ -15,7 +15,7 @@ nav_order: 1
 ### Instructor Information
 - **Name**: Dr. Julia Cardwell
 - **Office**: Carolina Hall 309
-- **Office Hours**: Mondays (10-11:30, in person), Thursdays (1:00-3:00, virtual), and by appointment
+- **Office Hours**: Mondays (10-11:30, in person), Fridays (12:30-2:00, in person), and by appointment (in person or virtual) 
 - **Email**: jmcard@email.unc.edu
 
 ### Teaching Assistant Information
