@@ -19,8 +19,8 @@ nav_order: 1
 - **Email**: jmcard@email.unc.edu
 
 ### Teaching Assistant Information
-- **Name**: XXXX
+- **Name**: M/W/F: Narmada Venkateswaran, T/Th: Colleen Dongarra
 - **Office Hours**: Office hours are by appointment- reach out by email to schedule.
-- **Email**: XXXXX
+- **Email**: narmada1@unc.edu, cdongarra@unc.edu
   
 
