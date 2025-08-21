@@ -11,3 +11,4 @@ All my course material is freely available for use, adaptation, and distribution
 
 [Cartographic Convention Guide](https://jucardwell.github.io/geog370_text/making_maps.html)
 
+[Grading Guidelines](https://docs.google.com/document/d/1AHn_J_xsXa1KnMbwHEdW-Gj0clcqcNL8EcsyiR8miRc/edit?usp=sharing)
