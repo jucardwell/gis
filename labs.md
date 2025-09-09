@@ -11,9 +11,9 @@ All my course labs are freely available for use, adaptation, and distribution wi
 
 | Lab | Name | Due Date MWF | Due Date TTh|
 |-----|------|--------------|
-| 1   | Introduction to QGIS     | 9/26/2025 | 9/18/2025 |
+| 1   | Introduction to QGIS     | 9/26/2025 | 9/23/2025 |
 | 2   | Introduction to Spatial Analysis    | 10/15/2025 | 10/9/2025 |
-| 3   | Introduction to Census Data     | 10/22/2025  | 10/16/2025 |
+| 3   | Introduction to Census Data     | 10/22/2025  | 10/21/2025 |
 | 4   | Introduction to Historical Data     | 10/29/2025 | 10/23/2025 |
 | 5   | Introduction to Crowdsourced Data    | 11/3/2025 | 10/30/2025 |
 | 6   | Introduction to Institutional Data    | 11/7/2025 | 11/6/2025 |
